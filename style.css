@@ -47,11 +47,41 @@ p
     background-color: #feeae9;
 }
 .container{
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
 #mid{
     padding:20%;
 }
 #money{
     color: #ff4f4f;
+}
+.column {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(255, 60, 60);
+}
+.cat2{
+    background-color: rgb(39, 97, 255);
+}
+.cat3{
+    background-color: rgb(255, 255, 66);
+}
+.gap{
+    background-color: white;
+}
+h1{
+    color: #ffffff;
+}
+mid{
+    padding: 25% 25% 25% 25%;
+}
+.categories img{
+    width: 100px;
 }
