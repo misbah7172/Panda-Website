@@ -43,8 +43,11 @@ p
       opacity: 1;
     }
   }
-.row{
+#row{
     background-color: #feeae9;
+}
+.row{
+    background-color: white;
 }
 .container{
     padding-top: 10px;
@@ -79,9 +82,23 @@ p
 h1{
     color: #ffffff;
 }
-mid{
-    padding: 25% 25% 25% 25%;
+.Mid{
+    padding: 20px 200px;
 }
 .categories img{
     width: 100px;
+}
+.bottom{
+    height: 230px;
+    background-color: #feeae9;
+}
+.bottomEmail{
+    padding: 10px 200px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#blackFont h1{
+    color: black;
 }
