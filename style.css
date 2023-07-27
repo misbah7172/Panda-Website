@@ -83,17 +83,17 @@ h1{
     color: #ffffff;
 }
 .Mid{
-    padding: 20px 200px;
+    padding: 5% 20%;
 }
 .categories img{
     width: 100px;
 }
 .bottom{
-    height: 230px;
+    height: 50%;
     background-color: #feeae9;
 }
 .bottomEmail{
-    padding: 10px 200px;
+    padding: 5% 20%;
 }
 .card{
     border: none;
